@@ -3,7 +3,7 @@ package test
 import (
 	"context"
 	"fmt"
-	mk "github.com/metaliccorp/mongo-kit"
+	mk "github.com/metalicgolib/meta-mongo-kit"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo/options"

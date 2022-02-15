@@ -1,4 +1,4 @@
-module github.com/metaliccorp/mongo-kit
+module github.com/metalicgolib/meta-mongo-kit
 
 go 1.15
 
